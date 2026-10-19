@@ -90,3 +90,14 @@ Sruti Vangara
 ## Project Purpose
 
 This project demonstrates text preprocessing, feature extraction, similarity measurement, and deployment preparation for a content-based recommendation system.
+
+## Deployed Application
+
+The Movie Recommendation System is deployed and available here:
+https://movie-recommendation-032452.streamlit.app/
+
+### Validation
+- Tested the movie selection dropdown.
+- Tested the recommendation button.
+- Checked recommendations for at least three movies.
+- Verified that similarity scores are displayed.
